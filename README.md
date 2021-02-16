@@ -18,14 +18,14 @@ Preview the prototype.
 
 ## DESIGN SCREENS:
 
-![output](./static/img/l1.png)
-![output](./static/img/l2.png)
-![output](./static/img/l3.png)
-![output](./static/img/l4.png)
+![output](./static/img/L1.png)
+![output](./static/img/L2.png)
+![output](./static/img/L3.png)
+![output](./static/img/L4.png)
 
 ## WIREFRAME:
 
-![output](./static/img/w1.png)
+![output](./static/img/W1.png)
 
 ## PROTOTYPE:
 ![output](./static/img/l5.png)
